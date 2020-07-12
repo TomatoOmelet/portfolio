@@ -86,3 +86,8 @@ ul.navigation li a:hover, a:active
 { 
     background-color: rgb(89, 116, 189);
 }
+
+li.currentPage
+{
+    background-color: rgb(2, 95, 95)
+}
