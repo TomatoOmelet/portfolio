@@ -41,6 +41,16 @@
   background-color: #dde7f8;
 }
 
+.bg-green{
+  background-color: rgb(175, 238, 238)
+}
+
+.project{
+  padding: 15px 5px;
+  border:solid darkcyan;
+  border-width:4px 4px;
+}
+
 /*Navigation Bar*/
 ul.navigation
 {
