@@ -10,17 +10,17 @@ import About from "./components/pages/About"
 function App() {
   return (
     <BrowserRouter>
-      <div className="App">
-        <div className = "container">
-          <SelfDescription/>
-          <Navbar/>
-          <Switch>
-            <Route exact path = "/" component={Home}/>
-            <Route exact path="/About" component={About}/>
-            {/*<Route component={NotFound}/>*/}
-          </Switch>
-        </div>
+
+      <div className = "container">
+        <SelfDescription/>
+        <Navbar/>
+        <Switch>
+          <Route exact path = "/" component={Home}/>
+          <Route exact path="/About" component={About}/>
+          {/*<Route component={NotFound}/>*/}
+        </Switch>
       </div>
+
     </BrowserRouter>
   );
 }

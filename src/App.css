@@ -37,6 +37,10 @@
   }
 }
 
+.bg-grey{
+  background-color: #dde7f8;
+}
+
 /*Navigation Bar*/
 ul.navigation
 {
@@ -73,12 +77,12 @@ ul.navigation li a, ul.navigation li a:link,ul.navigation li a:hover,ul.navigati
     width: 100%;
     height: 100%;
     text-decoration: none;
-    padding: 10px 0px;
+    padding: 5px 0px;
     margin: 0px;
     
 }
 
 ul.navigation li a:hover, a:active
 { 
-    background-color: gray;
+    background-color: rgb(89, 116, 189);
 }
