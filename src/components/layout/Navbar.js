@@ -10,8 +10,8 @@ const Navbar = () => {
 
     return (
         <ul className="navigation">
-            <li className={window.location.pathname==="/"?"currentPage":undefined}><NavLink to = "/portfolio/" onClick={forceUpdate}>Projects</NavLink></li>
-            <li className={window.location.pathname==="/About"?"currentPage":undefined}><NavLink to = "/portfolio/About" onClick={forceUpdate}>About</NavLink></li>
+            <li className={window.location.pathname==="/portfolio/"?"currentPage":undefined}><NavLink to = "/portfolio/" onClick={forceUpdate}>Projects</NavLink></li>
+            <li className={window.location.pathname==="/portfolio/About"?"currentPage":undefined}><NavLink to = "/portfolio/About" onClick={forceUpdate}>About</NavLink></li>
         </ul>
 
     )
