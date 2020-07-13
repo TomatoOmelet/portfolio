@@ -11,7 +11,7 @@ const Project = (props) => {
                     <h4 className="col-sm-6"><strong>{head}</strong></h4>
                     <p className="col-sm-6"><strong>{time}</strong></p>
                 </div>
-                <p style={{lineHeight:"0px"}}><strong>{role}</strong></p>
+                <p style={{marginTop:"-10px"}}><strong>{role}</strong></p>
                 <p style={{whiteSpace: "pre-line"}}>{description}</p>
                 {linkDescription && link && <div><a href={link} target="_blank" rel="noopener noreferrer">{linkDescription}</a><br/></div>}
                 {githubLink && <a href = {githubLink} target="_blank" rel="noopener noreferrer">View it on Github</a>}
