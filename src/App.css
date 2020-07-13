@@ -51,6 +51,12 @@
   border-width:4px 4px;
 }
 
+.about{
+  padding: 15px 5px;
+  border:solid darkcyan;
+  border-width:4px 4px;
+}
+
 /*Navigation Bar*/
 ul.navigation
 {
