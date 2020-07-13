@@ -6,7 +6,7 @@ const About = () => {
         <div className="container">
             <div className="row bg-green about">
                 <div className="col-sm-2">
-                <img src = {profile} alt="profile" style={{width:"75%"}}/>   
+                <img src = {profile} alt="profile" style={{width:"100%"}}/>   
                 </div>
 
                 <div className="col-sm-10" style={{padding:"0px 80px 0px 40px"}}>
