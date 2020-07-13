@@ -9,7 +9,7 @@ const Project = (props) => {
             <div className="col-sm-6">
                 <div className="row">
                     <h4 className="col-sm-6"><strong>{head}</strong></h4>
-                    <p className="col-sm-6" style={{textAlign:"right"}}><strong>{time}</strong></p>
+                    <p className="col-sm-6"><strong>{time}</strong></p>
                 </div>
                 <p style={{lineHeight:"0px"}}><strong>{role}</strong></p>
                 <p style={{whiteSpace: "pre-line"}}>{description}</p>
