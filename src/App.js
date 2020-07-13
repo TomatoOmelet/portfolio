@@ -6,6 +6,7 @@ import SelfDescription from "./components/layout/SelfDescription";
 
 import Home from "./components/pages/Home"
 import About from "./components/pages/About"
+import Contact from "./components/layout/Contact"
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route exact path="/About" component={About}/>
           <Route component={Home}/>
         </Switch>
+        <Contact/>
       </div>
 
     </BrowserRouter>
