@@ -16,8 +16,8 @@ function App() {
         <SelfDescription/>
         <Navbar/>
         <Switch>
-          <Route exact path = "/" component={Home}/>
-          <Route exact path="/About" component={About}/>
+          <Route exact path = "/portfolio/" component={Home}/>
+          <Route exact path="/portfolio/About" component={About}/>
           <Route component={Home}/>
         </Switch>
         <Contact/>
