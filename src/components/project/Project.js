@@ -6,17 +6,17 @@ const Project = (props) => {
 
     return (
         <div className="row bg-green project" style={{marginBottom:"10px"}}>
-            <div className="col">
+            <div className="col-sm-6">
                 <div className="row">
-                    <h4 className="col"><strong>{head}</strong></h4>
-                    <p className="col" style={{textAlign:"right"}}><strong>{time}</strong></p>
+                    <h4 className="col-sm-6"><strong>{head}</strong></h4>
+                    <p className="col-sm-6" style={{textAlign:"right"}}><strong>{time}</strong></p>
                 </div>
                 <p style={{lineHeight:"0px"}}><strong>{role}</strong></p>
                 <p style={{whiteSpace: "pre-line"}}>{description}</p>
                 {linkDescription && link && <div><a href={link} target="_blank" rel="noopener noreferrer">{linkDescription}</a><br/></div>}
                 {githubLink && <a href = {githubLink} target="_blank" rel="noopener noreferrer">View it on Github</a>}
             </div>
-            <div className="col">
+            <div className="col-sm-6">
                 <img src={require('../../pictures/' + image)} alt={imageDescription} style={{verticalAlign:"middle", width:"100%"}}/>
             </div>
         </div>
