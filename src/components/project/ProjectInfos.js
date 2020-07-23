@@ -87,4 +87,79 @@ export const BrokenCompass={
     "and I plan to learn it too when I have time."
 }
 
-export default ChibiInu;
+export const BoringOctopus={
+    head:"Boring Octopus",
+    time:"2017 Summer",
+    role:"Solo project",
+    links:[{link:"https://orangechicken.itch.io/boring-octopus", description:"Link to the game"},
+          {link:"https://github.com/WeiyanZhu/BoringOctopus", description:"View on Github"}],
+    image: "octopus.gif",
+    imageDescription: "Boring Octopus",
+    description: "A simple 2D infinite flyer game I made during summer vacation. "+
+    "It was my first time to try making a phone game, and I found "+ 
+    "that was not difficult with Unity. "+
+    "\n\n"+
+    "Players control the character to fly and shoot in a randomly "+ 
+    "generated map. The game records players' hightest score and "+ 
+    "their setting for volumn and language."
+}
+
+export const InterShellar={
+    head:"InterShellar",
+    time:"2018 Fall Game Jam",
+    role:"Programmer on a 6-member team",
+    links:[{link:"https://contractk4.itch.io/intershellar", description:"Link to the game"},
+          {link:"https://github.com/Kyle-Wong/Intershellar", description:"View on Github"}],
+    image: "intershellar.gif",
+    imageDescription: "InterShellar",
+    description: "A 2d game finished at a game jam in Fall 2018. My teammates are "+
+    "wonderful and I had a great time working with them. "+
+    "\n\n"+
+    "In this project I worked on the planets which attract player to "+ 
+    "rotate around them. One teammate added a circle showing the orbit "+ 
+    "to make it look greater. The enemy who will shoot at players and "+ 
+    "the camera which can follow player and zoom in/out are also "+ 
+    "interesting to program. I tried some new things like particle "+ 
+    "system in this game jam. Our artist created art very fast so I "+ 
+    "also made a bunch of animation controllers."
+}
+
+export const PaintingDemo={
+    head:"Painting Demo",
+    time:"2018 Summer",
+    role:"Self Practice",
+    links:[],
+    image: "paintTool.gif",
+    imageDescription: "Painting Demo",
+    description: "This is a practice I did during the summer. I tried to make a "+
+    "painting tool in Unity. "+
+    "\n\n"+
+    "At first I created objects at the mouse position but it made "+ 
+    "eraser difficult to program. Then I separated the board to "+ 
+    "different pixel blocks and used array to store the information. "+ 
+    "I put objects at the position of pixels but when there are too "+ 
+    "many objects the fps became very low. In the end I put a "+ 
+    "transparent picture on the board and called Unity's function "+ 
+    "to modify the pixel of the picture. "+
+    "\n\n"+
+    "Though it is still buggy when player draw fast, trying to do "+ 
+    "new things is interesting."
+}
+
+export const RileysAdventure={
+    head:"Riley's adventures in Terribleland",
+    time:"2018 Summer",
+    role:"Solo project",
+    links:[],
+    image: "riley.gif",
+    imageDescription: "Riley's adventures",
+    description: "It's a birthday present I made for my awesome fantastic wonderful friend. "+ 
+    "I came up with an idea that the player becomes an infant in another world, "+  
+    "and need to grow up to 21 years old to come back. I start to add relevant "+  
+    "stuff around this idea, finally it became something like this. "+ 
+    "\n\n"+
+    "Map tiles will change randomly after player pass them. Different things "+  
+    "will happen when players step on different tiles. Question mark tile is "+  
+    "the most common one and will trigger a random event. There is also a "+  
+    "shop where players can buy items with their money."
+}

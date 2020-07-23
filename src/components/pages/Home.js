@@ -1,7 +1,8 @@
 import React from 'react'
 import Project from "../project/Project"
 
-import {ChibiInu, AloneTogether, LobsterRevolution, BrokenCompass} from "../project/ProjectInfos";
+import {ChibiInu, AloneTogether, LobsterRevolution, BrokenCompass, BoringOctopus, InterShellar,
+        PaintingDemo, RileysAdventure} from "../project/ProjectInfos";
 
 const Home = () => {
     return (
@@ -17,6 +18,18 @@ const Home = () => {
 
             <Project head={BrokenCompass.head} time={BrokenCompass.time} role={BrokenCompass.role} description={BrokenCompass.description} 
             links={BrokenCompass.links} image={BrokenCompass.image} imageDescription={BrokenCompass.imageDescription}/>
+
+            <Project head={PaintingDemo.head} time={PaintingDemo.time} role={PaintingDemo.role} description={PaintingDemo.description} 
+            links={PaintingDemo.links} image={PaintingDemo.image} imageDescription={PaintingDemo.imageDescription}/>
+
+            <Project head={RileysAdventure.head} time={RileysAdventure.time} role={RileysAdventure.role} description={RileysAdventure.description} 
+            links={RileysAdventure.links} image={RileysAdventure.image} imageDescription={RileysAdventure.imageDescription}/>
+
+            <Project head={InterShellar.head} time={InterShellar.time} role={InterShellar.role} description={InterShellar.description} 
+            links={InterShellar.links} image={InterShellar.image} imageDescription={InterShellar.imageDescription}/>
+
+            <Project head={BoringOctopus.head} time={BoringOctopus.time} role={BoringOctopus.role} description={BoringOctopus.description} 
+            links={BoringOctopus.links} image={BoringOctopus.image} imageDescription={BoringOctopus.imageDescription}/>
         </div>
     )
 }
