@@ -11,7 +11,7 @@ const Contact = () => {
                 </div>
 
                 <div className="col">
-                    <p style={{lineHeight:"5px"}}><a href="https://github.com/TomatoOmelet" target="_blank" 
+                    <p style={{lineHeight:"5px"}}><a href="https://github.com/WeiyanZhu" target="_blank" 
                     rel="noopener noreferrer">Github</a></p>
                     <p style={{lineHeight:"5px"}}><a href="https://www.linkedin.com/in/weiyan-zhu/" target="_blank" 
                     rel="noopener noreferrer">LinkedIn</a></p>

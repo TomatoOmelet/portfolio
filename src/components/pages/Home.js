@@ -9,17 +9,14 @@ const Home = () => {
             <Project head={AloneTogether.head} time={AloneTogether.time} role={AloneTogether.role} description={AloneTogether.description} 
             image={AloneTogether.image} imageDescription={AloneTogether.imageDescription}/>
 
-            <Project head={ChibiInu.head} time={ChibiInu.time} role={ChibiInu.role} description={ChibiInu.description} link={ChibiInu.link} 
-            linkDescription={ChibiInu.linkDescription} githubLink={ChibiInu.githubLink} image={ChibiInu.image} 
-            imageDescription={ChibiInu.imageDescription}/>
+            <Project head={ChibiInu.head} time={ChibiInu.time} role={ChibiInu.role} description={ChibiInu.description} 
+            links={ChibiInu.links} image={ChibiInu.image} imageDescription={ChibiInu.imageDescription}/>
 
-            <Project head={LobsterRevolution.head} time={LobsterRevolution.time} role={LobsterRevolution.role} description={LobsterRevolution.description} link={LobsterRevolution.link} 
-            linkDescription={LobsterRevolution.linkDescription} githubLink={LobsterRevolution.githubLink} image={LobsterRevolution.image} 
-            imageDescription={LobsterRevolution.imageDescription}/>
+            <Project head={LobsterRevolution.head} time={LobsterRevolution.time} role={LobsterRevolution.role} description={LobsterRevolution.description} 
+            links={LobsterRevolution.links} image={LobsterRevolution.image} imageDescription={LobsterRevolution.imageDescription}/>
 
-            <Project head={BrokenCompass.head} time={BrokenCompass.time} role={BrokenCompass.role} description={BrokenCompass.description} link={BrokenCompass.link} 
-            linkDescription={BrokenCompass.linkDescription} githubLink={BrokenCompass.githubLink} image={BrokenCompass.image} 
-            imageDescription={BrokenCompass.imageDescription}/>
+            <Project head={BrokenCompass.head} time={BrokenCompass.time} role={BrokenCompass.role} description={BrokenCompass.description} 
+            links={BrokenCompass.links} image={BrokenCompass.image} imageDescription={BrokenCompass.imageDescription}/>
         </div>
     )
 }
