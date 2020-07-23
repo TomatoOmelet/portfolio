@@ -15,7 +15,7 @@ const Project = (props) => {
                 <p style={{whiteSpace: "pre-line"}}>{description}</p>
 
                 {links && links.map((value, index) => {
-                    return <div><a href={value.link} target="_blank" rel="noopener noreferrer">{value.description}</a><br/></div>
+                    return <div key = {index}><a href={value.link} target="_blank" rel="noopener noreferrer">{value.description}</a><br/></div>
                 })}
             </div>
             <div className="col-sm-6">
