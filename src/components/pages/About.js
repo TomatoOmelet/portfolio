@@ -16,7 +16,7 @@ const About = () => {
 
                     <p>After I finished my undergraduate at UC Irvine, I decided to go to UC Berkeley for a Master's Degree. I have worked on 
                     game development a lot during my undergraduate time, but have not put as much time in other areas in CS. I am also not satisfied 
-                    with my soft skills. As a result I decided to take a Master's program to give myself more time to learn CS as well as develope 
+                    with my soft skills. As a result I decided to take a Master's program to give myself more time to learn CS as well as develop 
                     soft skills.
                     </p>
 
