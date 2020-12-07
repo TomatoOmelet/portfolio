@@ -12,12 +12,12 @@ const About = () => {
                 <div className="col-sm-10" style={{padding:"0px 80px 0px 40px"}}>
                     <p>Good morning I'm Wayne, an international student who comes here from China to learn more about game and software development. 
                     I am proficient in Unity with C# and I mainly work on game projects. However, I love programming in general and is interested in 
-                    learning all kinds of technologies. I was learning web development recently and just remade this portfolio with React. </p>
+                    learning all kinds of technologies. </p>
 
-                    <p>After I finished my undergraduate at UC Irvine, I decided to go to UC Berkeley for a Master's Degree. I feel I have concentrated
-                        too much on game development during my undergraduate time. It is what I am interested in, but I want to learn more about other 
-                        technologies as well. As a result I decided to take a Master's program to give myself more time to explore and study other 
-                        areas in Computer Science.
+                    <p>After I finished my undergraduate at UC Irvine, I decided to go to UC Berkeley for a Master's Degree. I have worked on 
+                    game development a lot during my undergraduate time, but have not put as much time in other areas in CS. I am also not satisfied 
+                    with my soft skills. As a result I decided to take a Master's program to give myself more time to learn CS as well as develope 
+                    soft skills.
                     </p>
 
                     <p>
