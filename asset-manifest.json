@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.ee13606f.chunk.css",
+    "main.js": "/portfolio/static/js/main.5e52c8c0.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.5e52c8c0.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.209c2d7e.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.209c2d7e.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/portfolio/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3a68e885.chunk.js": "/portfolio/static/js/2.3a68e885.chunk.js",
+    "static/js/2.3a68e885.chunk.js.map": "/portfolio/static/js/2.3a68e885.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "precache-manifest.947601af73906ead79a59d65d2d88f2a.js": "/portfolio/precache-manifest.947601af73906ead79a59d65d2d88f2a.js",
+    "service-worker.js": "/portfolio/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/portfolio/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.ee13606f.chunk.css.map": "/portfolio/static/css/main.ee13606f.chunk.css.map",
+    "static/js/2.3a68e885.chunk.js.LICENSE.txt": "/portfolio/static/js/2.3a68e885.chunk.js.LICENSE.txt",
+    "static/media/ChibiInu.gif": "/portfolio/static/media/ChibiInu.bad0197b.gif",
+    "static/media/ChristmasGround.png": "/portfolio/static/media/ChristmasGround.3d7f9cbf.png",
+    "static/media/ChristmasTree.png": "/portfolio/static/media/ChristmasTree.01a9b7ac.png",
+    "static/media/aloneTogether.gif": "/portfolio/static/media/aloneTogether.e63d7c31.gif",
+    "static/media/box1.PNG": "/portfolio/static/media/box1.402035cf.PNG",
+    "static/media/broken compass.gif": "/portfolio/static/media/broken compass.c081ae65.gif",
+    "static/media/harmony.gif": "/portfolio/static/media/harmony.76d8de61.gif",
+    "static/media/intershellar.gif": "/portfolio/static/media/intershellar.dbf6584e.gif",
+    "static/media/lobster.gif": "/portfolio/static/media/lobster.fd993c69.gif",
+    "static/media/octopus.gif": "/portfolio/static/media/octopus.d17210e1.gif",
+    "static/media/paintTool.gif": "/portfolio/static/media/paintTool.5b6806e7.gif",
+    "static/media/profile.png": "/portfolio/static/media/profile.f62974e4.png",
+    "static/media/profileChristmas.png": "/portfolio/static/media/profileChristmas.fe668388.png",
+    "static/media/riley.gif": "/portfolio/static/media/riley.edfca4f0.gif",
+    "static/media/tree.png": "/portfolio/static/media/tree.2f5652c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.209c2d7e.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3a68e885.chunk.js",
+    "static/css/main.ee13606f.chunk.css",
+    "static/js/main.5e52c8c0.chunk.js"
+  ]
+}
