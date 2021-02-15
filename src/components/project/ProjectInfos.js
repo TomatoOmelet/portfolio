@@ -25,7 +25,7 @@ export const AloneTogether={
     head:"Alone Together",
     time:"2019 Fall - 2020 Winter",
     role:"Programmer on a 6-member team",
-    links:[],
+    links:[{link:"https://docs.google.com/presentation/d/13LPO-SSPJEozBpwbZm924L6U06hOw2DIj7UoHIJ-UVI/edit?usp=sharing", description:"Detailed Discription of My Work"}],
     image: "aloneTogether.gif",
     imageDescription: "Alone Together",
     description: "This is the project for the Capstone class I am taking at UC Irvine. The "+

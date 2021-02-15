@@ -8,7 +8,7 @@ const Home = () => {
     return (
         <div className="container">
             <Project head={AloneTogether.head} time={AloneTogether.time} role={AloneTogether.role} description={AloneTogether.description} 
-            image={AloneTogether.image} imageDescription={AloneTogether.imageDescription}/>
+            image={AloneTogether.image} links={AloneTogether.links} imageDescription={AloneTogether.imageDescription}/>
 
             <Project head={ChibiInu.head} time={ChibiInu.time} role={ChibiInu.role} description={ChibiInu.description} 
             links={ChibiInu.links} image={ChibiInu.image} imageDescription={ChibiInu.imageDescription}/>
