@@ -1,0 +1,40 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ee13606f.chunk.css",
+    "main.js": "/static/js/main.d25ed4dd.chunk.js",
+    "main.js.map": "/static/js/main.d25ed4dd.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
+    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3a68e885.chunk.js": "/static/js/2.3a68e885.chunk.js",
+    "static/js/2.3a68e885.chunk.js.map": "/static/js/2.3a68e885.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c4d1f297fa006d5998b9e2aa6e605c67.js": "/precache-manifest.c4d1f297fa006d5998b9e2aa6e605c67.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.ee13606f.chunk.css.map": "/static/css/main.ee13606f.chunk.css.map",
+    "static/js/2.3a68e885.chunk.js.LICENSE.txt": "/static/js/2.3a68e885.chunk.js.LICENSE.txt",
+    "static/media/ChibiInu.gif": "/static/media/ChibiInu.bad0197b.gif",
+    "static/media/ChristmasGround.png": "/static/media/ChristmasGround.3d7f9cbf.png",
+    "static/media/ChristmasTree.png": "/static/media/ChristmasTree.01a9b7ac.png",
+    "static/media/aloneTogether.gif": "/static/media/aloneTogether.e63d7c31.gif",
+    "static/media/box1.PNG": "/static/media/box1.402035cf.PNG",
+    "static/media/broken compass.gif": "/static/media/broken compass.c081ae65.gif",
+    "static/media/harmony.gif": "/static/media/harmony.76d8de61.gif",
+    "static/media/intershellar.gif": "/static/media/intershellar.dbf6584e.gif",
+    "static/media/lobster.gif": "/static/media/lobster.fd993c69.gif",
+    "static/media/octopus.gif": "/static/media/octopus.d17210e1.gif",
+    "static/media/paintTool.gif": "/static/media/paintTool.5b6806e7.gif",
+    "static/media/profile.png": "/static/media/profile.f62974e4.png",
+    "static/media/profileChristmas.png": "/static/media/profileChristmas.fe668388.png",
+    "static/media/riley.gif": "/static/media/riley.edfca4f0.gif",
+    "static/media/tree.png": "/static/media/tree.2f5652c2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.19ccc7f6.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.3a68e885.chunk.js",
+    "static/css/main.ee13606f.chunk.css",
+    "static/js/main.d25ed4dd.chunk.js"
+  ]
+}
